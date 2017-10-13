@@ -10,6 +10,6 @@ São cinco exemplos onde demonstro como evoluir, de forma organizada, a sua app:
 - [04-modulos](04-modulos/)
 - [05-apps](05-apps/)
 
-O próximo passo é criar um capítulo no site (devfuria/php)[http://www.devfuria.com.br/php/] explicando detalhadamente cada exemplo.
+O próximo passo é criar um capítulo no site [devfuria/php](http://www.devfuria.com.br/php/) explicando detalhadamente cada exemplo.
 
 Se quiser palpipar seja bem vindo!
